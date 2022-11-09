@@ -1,0 +1,11 @@
+.titulo-1{
+    color:black;
+    background-color:thistle;
+}
+body{
+    background-color: aliceblue;
+}
+tr{
+    background-color: rgb(235, 205, 235);
+    color: black;
+}
